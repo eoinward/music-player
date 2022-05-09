@@ -3,6 +3,10 @@
 
 ![TEST](https://user-images.githubusercontent.com/4508456/167377199-5e3c6a4b-d8ef-4efe-8296-d741006b47f1.png)
 
+This is a Music Player.
+It plays faces and music.
+Sometimes it does it more than once.
+And that is it.
 
 ## Use as Extension
 
