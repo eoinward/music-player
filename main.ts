@@ -29,9 +29,11 @@ input.onButtonPressed(Button.B, function () {
     }
 })
 input.onGesture(Gesture.Shake, function () {
-    basic.showIcon(IconNames.Sad)
-    music.playMelody("C5 G C5 G C D E F ", 120)
-    basic.showIcon(IconNames.Happy)
+    for (let index = 0; index < 1; index++) {
+        basic.showIcon(IconNames.Sad)
+        music.playMelody("C5 G C5 G C D E F ", 120)
+        basic.showIcon(IconNames.Happy)
+    }
 })
 input.onGesture(Gesture.LogoDown, function () {
     for (let index = 0; index < 2; index++) {
