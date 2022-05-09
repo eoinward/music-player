@@ -1,6 +1,9 @@
 
 > Open this page at [https://eoinward.github.io/music-player/](https://eoinward.github.io/music-player/)
 
+![TEST](https://user-images.githubusercontent.com/4508456/167377199-5e3c6a4b-d8ef-4efe-8296-d741006b47f1.png)
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
